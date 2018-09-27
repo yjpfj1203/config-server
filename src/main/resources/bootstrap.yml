@@ -1,0 +1,9 @@
+server:
+    port: 8100
+#    ssl.key-store: classpath:keystore.p12
+#    ssl.key-store-password: Liuhan1203
+#    ssl.keyStoreType: PKCS12
+#    ssl.keyAlias: tomcat
+spring:
+    application:
+        name: config-server
