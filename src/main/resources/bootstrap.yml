@@ -7,3 +7,4 @@ server:
 spring:
     application:
         name: config-server
+encrypt.key: test123456789
